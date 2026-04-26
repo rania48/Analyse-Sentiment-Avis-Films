@@ -36,8 +36,7 @@ Dataset_IMDB_Avis_Films.csv
 Ce fichier contient des avis de films annotés selon deux classes :
 
 - positive : avis positif
-- 
-egative : avis négatif
+- negative : avis négatif
 
 Le dataset permet donc d'entraîner un modèle de classification supervisée pour prédire automatiquement le sentiment d'un avis.
 
